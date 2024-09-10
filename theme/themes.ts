@@ -1,7 +1,11 @@
 export const lightTheme = {
     colors: {
-        typography: '#000000',
-        background: '#ffffff',
+        text: '#1A1A1A',
+        background: '#F3F4F5ff',
+        primaryLight: '#A7AD92ff',
+        primaryStrong: '#74825Fff',
+        secondaryLight: '#D45C29ff',
+        secondaryStrong: '#C53D16ff',
     },
     margins: {
         sm: 2,
@@ -13,8 +17,12 @@ export const lightTheme = {
 
 export const darkTheme = {
     colors: {
-        typography: '#ffffff',
-        background: '#000000',
+        text: '#F2F2F7',
+        background: '#1C1C1E',
+        primaryLight: '#A7AD92ff',
+        primaryStrong: '#74825Fff',
+        secondaryLight: '#D45C29ff',
+        secondaryStrong: '#C53D16ff',
     },
     margins: {
         sm: 2,

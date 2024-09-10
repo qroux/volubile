@@ -1,6 +1,5 @@
-import { lightTheme } from '@/theme';
 import { breakpoints } from '@/theme/breakpoints';
-import { darkTheme } from '@/theme/themes';
+import { darkTheme, lightTheme } from '@/theme/themes';
 import { UnistylesRegistry } from 'react-native-unistyles';
 
 // if you defined breakpoints
